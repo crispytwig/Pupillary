@@ -1,0 +1,7 @@
+{
+  "pupillary.configuration.client": "Pupillary Client",
+  "config.pupillary.enabled": "Enabled",
+  "config.pupillary.min_brightness": "Minimum Brightness",
+  "config.pupillary.max_brightness": "Maximum Brightness"
+}
+
